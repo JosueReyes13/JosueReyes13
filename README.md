@@ -2,7 +2,7 @@
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-# I’m currently Web page developer and database manager 🫸🔵🔴🫷 🫴🟣
+# I’m currently Web page developer and database manager           🫸🔵🔴🫷 🫴🟣
 
 # 💫 About Me:
 🌱 I’m currently learning.<br>🤝 Continuous learning in web development and databases.<br>⚡  Work on Windows. <br>👨‍🎓 Graduated from University and in the graduation process.<br>💬 Spanish (native) and English (B2).<br>
