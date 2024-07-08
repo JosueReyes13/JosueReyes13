@@ -2,9 +2,10 @@
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I’m currently Web page developer and database manager 
+# I’m currently Web page developer and database manager 🫸🔵🔴🫷 🫴🟣
 
-🫸🔵🔴🫷 🫴🟣
+# 💫 About Me:
+🌱 I’m currently learning.<br>🤝 Continuous learning in web development and databases.<br>⚡  Work on Windows. <br>👨‍🎓 Graduated from University and in the graduation process.<br>💬 Spanish (native) and English (B2).<br>
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh1bnMxdzU5bjNram5qY3YwYTFpdWJxeGhnMXV3OTdrYjEweHh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.webp">
 
@@ -72,4 +73,7 @@ I’m currently Web page developer and database manager
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
 
+---
+[![](https://visitcount.itsvg.in/api?id=JosueReyes13&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
