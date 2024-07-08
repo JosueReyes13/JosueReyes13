@@ -2,8 +2,10 @@
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🫸🔵🔴🫷I’m currently Web page developer and database manager 🫴🟣
-⠀⠀⠀⠀⠀⠀⠀⠀⠀
+I’m currently Web page developer and database manager 
+
+🫸🔵🔴🫷 🫴🟣
+
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh1bnMxdzU5bjNram5qY3YwYTFpdWJxeGhnMXV3OTdrYjEweHh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.webp">
 
 <br>
