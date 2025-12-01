@@ -7,7 +7,7 @@
 # 💫 About Me:
 🌱 I’m currently learning.<br>🤝 Continuous learning in web development and databases.<br>⚡  Work on Windows. <br>👨‍🎓 Graduated from University and in the graduation process.<br>💬 Spanish (native) and English (B2).<br>
 
-<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh1bnMxdzU5bjNram5qY3YwYTFpdWJxeGhnMXV3OTdrYjEweHh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.webp">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxcGxuczA2aHUydnRmZGN4dWV1NGk1ZW55Z3R6M3dzanh3ODMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
