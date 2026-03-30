@@ -6,21 +6,14 @@
 <h2 align="center">Web Page Developer & Database Manager 🫸🔵🔴🫷 🫴🟣</h2>
 
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="TU_LINK_DE_TWITTER" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="TU_LINK_DE_DISCORD" target="_blank"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="TU_LINK_DE_TWITCH" target="_blank"><img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" alt="JosueReyes13" />
+  <img src="https://komarev.com/ghpvc/?username=JosueReyes13&label=Profile%20Views&color=0e75b6&style=flat" alt="JosueReyes13" />
 </p>
 
 ---
 
 ### 💫 About Me
 <p align="center">
-  <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxcGxuczA2u2vtfDcxVWV1NGk1ZW55Z3R6M3dzanh3ODMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" style="margin-left: 20px;">
+  <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxcGxuczA2aHUydnRmZGN4dWV1NGk1ZW55Z3R6M3dzanh3ODMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" style="margin-left: 20px;">
 </p>
 
 - 🌱 **Current Focus:** Leveling up in Full Stack development and advanced Data Architectures.
@@ -29,7 +22,6 @@
 - 💬 **Languages:** Spanish (Native) | English (B2).
 - ⚡ **Environment:** Proud Windows power user.
 
-<br>
 <br>
 
 ---
@@ -70,32 +62,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-<br>
-
 ---
 
-### 📊 GitHub Dashboard (Style: @AnuragHazra & @ryo-ma)
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Josue Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&hide_border=true" alt="Josue Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark&hide_border=true" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-</p>
-<p align="center">Building the digital future, byte by byte <3</p>
-
-<br>
-<br>
-<br>
-
----
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300">
 </p>
