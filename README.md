@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=I'm%20Josué&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 </p>
 
-<h2 align="center">Web Page Developer & Database Manager 🫸🔵🔴🫷 🫴🟣</h2>
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFscWsxeTd3Zzk5NDI3a3NtM2ZrcTc3ZXNkdHc3YmVyMDlwZzVxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="320">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
 </p>
+
+<h2 align="center">Web Page Developer & Database Manager 🫸🔵🔴🫷 🫴🟣</h2>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JosueReyes13">
@@ -32,6 +32,10 @@
 ---
 
 ### 🚀 Languages and Tools
+
+<p align="center">
+  <img align="right" alt="Infinite Void Skill" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNtcnNtNXdpbDg2Mm5iOWszdnYxYXIza3hsZjlubTZ3dHpkOTlmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" style="margin-left: 20px; border-radius: 10px;">
+</p>
 
 > #### 💻 Programming Languages
 <p align="left">
