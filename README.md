@@ -12,13 +12,17 @@
 ---
 
 ### 💫 About Me
-<img align="right" alt="Coding" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxcGxuczA2aHUydnRmZGN4dWV1NGk1ZW55Z3R6M3dzanh3ODMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif">
+<p align="center">
+  <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhxcGxuczA2aHUydnRmZGN4dWV1NGk1ZW55Z3R6M3dzanh3ODMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" style="margin-left: 20px;">
+</p>
 
 - 🌱 **Current Focus:** Leveling up in Full Stack development and advanced Data Architectures.
 - 🎓 **Education:** University Graduate (currently in the official graduation process).
 - 🤝 **Collaboration:** Always open to exciting web and database projects.
 - 💬 **Languages:** Spanish (Native) | English (B2).
 - ⚡ **Environment:** Proud Windows power user.
+
+<br>
 
 ---
 
@@ -27,7 +31,9 @@
 #### 💻 Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
@@ -35,6 +41,8 @@
 #### 🛠️ Frameworks & Libraries
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
@@ -58,7 +66,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&hide_border=true" alt="Josue Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&hide_border=true" alt="Josue Stats" />
 </p>
 
 <p align="center">
